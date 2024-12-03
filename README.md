@@ -1,4 +1,4 @@
-# data science projects
+# business-projects
 Compilation of python machine learning projects with data visualization that solve business problems
 
 - Personal Spotify Data Analysis: Convert my own spotify data dowloaded as json file here: https://www.spotify.com/us/account/privacy/, to dataframes for analysis
